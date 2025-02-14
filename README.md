@@ -3,6 +3,7 @@ Freelance software engineer
 
 ## Projects
 [Care Chords](https://github.com/wdudokvanheel/care-chords) -- iOS app for a Baby Monitor with Spotify support and a Rust backend
+
 [Game of Life](https://github.com/wdudokvanheel/rust-game-of-life) -- Rust implementation of Conway's Game of Life
 
 ## Project stats
