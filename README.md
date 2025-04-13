@@ -4,7 +4,7 @@ Freelance software engineer
 ## Projects
 [Tiny Baby Care](https://github.com/wdudokvanheel/baby-care) - Baby health tracking app for iOS with realtime data sharing, powered by a Java Spring backend
 
-[Care Chords](https://github.com/wdudokvanheel/care-chords) - iOS app to combine Spotify playback with an IP Camera, powered by a Rust backend
+[Care Chords](https://github.com/wdudokvanheel/care-chords) - iOS app to combine Spotify playback with an IP Camera, with a backend written in Rust
 
 [SugarScope](https://github.com/wdudokvanheel/sugarscope) - iOS Blood glucose app tracker with a pretty interface, includes a Rust server and [NightScout](https://nightscout.github.io/) support 
 
