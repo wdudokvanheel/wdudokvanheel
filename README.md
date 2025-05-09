@@ -6,7 +6,7 @@ Freelance software engineer
 
 [Care Chords](https://github.com/wdudokvanheel/care-chords) - iOS app to combine Spotify playback with an IP Camera, with a backend written in Rust
 
-[SugarScope](https://github.com/wdudokvanheel/sugarscope) - iOS Blood glucose app tracker with a pretty interface, includes a Rust server and [NightScout](https://nightscout.github.io/) support 
+[GlucoScope](https://github.com/wdudokvanheel/sugarscope) - iOS Blood glucose app tracker with a pretty interface, includes a Rust server and [NightScout](https://nightscout.github.io/) support 
 
 [Game of Life](https://github.com/wdudokvanheel/rust-game-of-life) - Rust implementation of Conway's Game of Life
 
