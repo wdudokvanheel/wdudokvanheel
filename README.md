@@ -14,6 +14,8 @@ Freelance software engineer
 
 ### Other
 
+[Project Stats Tool](https://github.com/wdudokvanheel/pstatool) - A Rust tool for analyzing GitHub repositories with CLOC and generating SVG visualizations of code statistics. 
+
 [Game of Life](https://github.com/wdudokvanheel/rust-game-of-life) - Rust implementation of Conway's Game of Life
 
 [CHIP8 interpreter](https://github.com/wdudokvanheel/rust-chip8) - Run CHIP8 roms online with this Rust based interpreter ([Play here](https://chip8.wdudokvanheel.nl/))
