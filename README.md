@@ -1,6 +1,6 @@
 <h1 align="center">Wesley Dudok van Heel</h1>
 <p align="center"><strong>Freelance Software Engineer</strong><br>
-<a href="https://www.upwork.com/freelancers/wesleydudokvanheel">Hire me on Upwork</a><br>
+<a href="https://www.upwork.com/freelancers/~010a4eeb4eb1e9a753">Hire me on Upwork</a><br>
 Over 1k billed hours | 100% Job Success rating<br></p> 
 
 ---
