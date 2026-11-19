@@ -1,7 +1,7 @@
-![Wesley Dudok van Heel - Freelance Software Engineer, iOS & Android apps](banner.png)
+[![Wesley Dudok van Heel - Freelance Software Engineer](banner.png)](https://www.wdudokvanheel.nl)
 
 <p align="center">
-<a href="https://www.upwork.com/freelancers/~010a4eeb4eb1e9a753">Hire me on Upwork</a><br>
+<a href="https://www.wdudokvanheel.nl">www.wdudokvanheel.nl</a> | <a href="https://www.upwork.com/freelancers/~010a4eeb4eb1e9a753">Hire me on Upwork</a><br>
 Over 1k billed hours | 100% Job Success rating
 </p>
 
